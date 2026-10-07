@@ -1,0 +1,46 @@
+{
+  "radius": {
+    "none": {
+      "$type": "dimension",
+      "$value": "0px"
+    },
+    "2xs": {
+      "$type": "dimension",
+      "$value": "3px",
+      "$description": "Checkboxes, tiny chips"
+    },
+    "xs": {
+      "$type": "dimension",
+      "$value": "6px",
+      "$description": "Badges, tooltips"
+    },
+    "sm": {
+      "$type": "dimension",
+      "$value": "8px",
+      "$description": "Inputs, buttons"
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": "12px",
+      "$description": "Cards, menus"
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": "16px",
+      "$description": "Modals, large panels"
+    },
+    "xl": {
+      "$type": "dimension",
+      "$value": "20px"
+    },
+    "2xl": {
+      "$type": "dimension",
+      "$value": "24px"
+    },
+    "full": {
+      "$type": "dimension",
+      "$value": "9999px",
+      "$description": "Pills, avatars"
+    }
+  }
+}

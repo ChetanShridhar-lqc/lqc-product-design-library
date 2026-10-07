@@ -1,0 +1,177 @@
+{
+  "font": {
+    "family": {
+      "brand": {
+        "$type": "fontFamily",
+        "$value": "PP Valve",
+        "$description": "Display and wordmark only"
+      },
+      "sans": {
+        "$type": "fontFamily",
+        "$value": "IBM Plex Sans"
+      },
+      "mono": {
+        "$type": "fontFamily",
+        "$value": "IBM Plex Mono"
+      }
+    },
+    "weight": {
+      "regular": {
+        "$type": "fontWeight",
+        "$value": 400
+      },
+      "medium": {
+        "$type": "fontWeight",
+        "$value": 500
+      }
+    },
+    "size": {
+      "100": {
+        "$type": "dimension",
+        "$value": "8px"
+      },
+      "150": {
+        "$type": "dimension",
+        "$value": "9px"
+      },
+      "200": {
+        "$type": "dimension",
+        "$value": "10px"
+      },
+      "250": {
+        "$type": "dimension",
+        "$value": "11px"
+      },
+      "300": {
+        "$type": "dimension",
+        "$value": "12px"
+      },
+      "350": {
+        "$type": "dimension",
+        "$value": "14px"
+      },
+      "400": {
+        "$type": "dimension",
+        "$value": "16px"
+      },
+      "450": {
+        "$type": "dimension",
+        "$value": "18px"
+      },
+      "500": {
+        "$type": "dimension",
+        "$value": "20px"
+      },
+      "550": {
+        "$type": "dimension",
+        "$value": "22px"
+      },
+      "600": {
+        "$type": "dimension",
+        "$value": "24px"
+      },
+      "650": {
+        "$type": "dimension",
+        "$value": "28px"
+      },
+      "700": {
+        "$type": "dimension",
+        "$value": "32px"
+      },
+      "750": {
+        "$type": "dimension",
+        "$value": "36px"
+      },
+      "800": {
+        "$type": "dimension",
+        "$value": "40px"
+      },
+      "850": {
+        "$type": "dimension",
+        "$value": "48px"
+      },
+      "900": {
+        "$type": "dimension",
+        "$value": "60px"
+      },
+      "950": {
+        "$type": "dimension",
+        "$value": "72px"
+      }
+    },
+    "line-height": {
+      "100": {
+        "$type": "dimension",
+        "$value": "10px"
+      },
+      "150": {
+        "$type": "dimension",
+        "$value": "11px"
+      },
+      "200": {
+        "$type": "dimension",
+        "$value": "12px"
+      },
+      "250": {
+        "$type": "dimension",
+        "$value": "14px"
+      },
+      "300": {
+        "$type": "dimension",
+        "$value": "16px"
+      },
+      "350": {
+        "$type": "dimension",
+        "$value": "18px"
+      },
+      "400": {
+        "$type": "dimension",
+        "$value": "20px"
+      },
+      "450": {
+        "$type": "dimension",
+        "$value": "22px"
+      },
+      "500": {
+        "$type": "dimension",
+        "$value": "24px"
+      },
+      "550": {
+        "$type": "dimension",
+        "$value": "26px"
+      },
+      "600": {
+        "$type": "dimension",
+        "$value": "28px"
+      },
+      "650": {
+        "$type": "dimension",
+        "$value": "32px"
+      },
+      "700": {
+        "$type": "dimension",
+        "$value": "36px"
+      },
+      "750": {
+        "$type": "dimension",
+        "$value": "40px"
+      },
+      "800": {
+        "$type": "dimension",
+        "$value": "48px"
+      },
+      "850": {
+        "$type": "dimension",
+        "$value": "56px"
+      },
+      "900": {
+        "$type": "dimension",
+        "$value": "72px"
+      },
+      "950": {
+        "$type": "dimension",
+        "$value": "84px"
+      }
+    }
+  }
+}

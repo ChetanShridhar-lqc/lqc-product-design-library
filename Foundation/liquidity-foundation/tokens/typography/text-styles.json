@@ -1,0 +1,189 @@
+{
+  "text-style": {
+    "display": {
+      "lg": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font.family.brand}",
+          "fontWeight": "{font.weight.regular}",
+          "fontSize": "{font.size.850}",
+          "lineHeight": "{font.line-height.800}",
+          "letterSpacing": "2%",
+          "textCase": "uppercase"
+        },
+        "$description": "Hero headlines, Valve in capitals"
+      },
+      "md": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font.family.brand}",
+          "fontWeight": "{font.weight.regular}",
+          "fontSize": "{font.size.700}",
+          "lineHeight": "{font.line-height.650}",
+          "letterSpacing": "2%",
+          "textCase": "uppercase"
+        }
+      }
+    },
+    "heading": {
+      "xl": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font.family.sans}",
+          "fontWeight": "{font.weight.medium}",
+          "fontSize": "{font.size.650}",
+          "lineHeight": "{font.line-height.700}",
+          "letterSpacing": "-1%",
+          "textCase": "none"
+        },
+        "$description": "Page titles"
+      },
+      "lg": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font.family.sans}",
+          "fontWeight": "{font.weight.medium}",
+          "fontSize": "{font.size.600}",
+          "lineHeight": "{font.line-height.650}",
+          "letterSpacing": "-1%",
+          "textCase": "none"
+        }
+      },
+      "md": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font.family.sans}",
+          "fontWeight": "{font.weight.medium}",
+          "fontSize": "{font.size.500}",
+          "lineHeight": "{font.line-height.600}",
+          "letterSpacing": "0%",
+          "textCase": "none"
+        }
+      },
+      "sm": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font.family.sans}",
+          "fontWeight": "{font.weight.medium}",
+          "fontSize": "{font.size.400}",
+          "lineHeight": "{font.line-height.500}",
+          "letterSpacing": "0%",
+          "textCase": "none"
+        },
+        "$description": "Card and section headings"
+      }
+    },
+    "body": {
+      "lg": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font.family.sans}",
+          "fontWeight": "{font.weight.regular}",
+          "fontSize": "{font.size.400}",
+          "lineHeight": "{font.line-height.500}",
+          "letterSpacing": "0%",
+          "textCase": "none"
+        }
+      },
+      "md": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font.family.sans}",
+          "fontWeight": "{font.weight.regular}",
+          "fontSize": "{font.size.350}",
+          "lineHeight": "{font.line-height.400}",
+          "letterSpacing": "0%",
+          "textCase": "none"
+        },
+        "$description": "Default body text"
+      },
+      "sm": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font.family.sans}",
+          "fontWeight": "{font.weight.regular}",
+          "fontSize": "{font.size.300}",
+          "lineHeight": "{font.line-height.300}",
+          "letterSpacing": "0%",
+          "textCase": "none"
+        }
+      }
+    },
+    "label": {
+      "lg": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font.family.sans}",
+          "fontWeight": "{font.weight.medium}",
+          "fontSize": "{font.size.350}",
+          "lineHeight": "{font.line-height.400}",
+          "letterSpacing": "0%",
+          "textCase": "none"
+        },
+        "$description": "Buttons, tabs, form labels"
+      },
+      "md": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font.family.sans}",
+          "fontWeight": "{font.weight.medium}",
+          "fontSize": "{font.size.300}",
+          "lineHeight": "{font.line-height.300}",
+          "letterSpacing": "0%",
+          "textCase": "none"
+        }
+      }
+    },
+    "overline": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{font.family.sans}",
+        "fontWeight": "{font.weight.medium}",
+        "fontSize": "{font.size.300}",
+        "lineHeight": "{font.line-height.300}",
+        "letterSpacing": "6%",
+        "textCase": "uppercase"
+      },
+      "$description": "Eyebrows and section labels"
+    },
+    "numeric": {
+      "lg": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font.family.sans}",
+          "fontWeight": "{font.weight.medium}",
+          "fontSize": "{font.size.600}",
+          "lineHeight": "{font.line-height.650}",
+          "letterSpacing": "-1%",
+          "textCase": "none"
+        },
+        "$description": "KPI values"
+      },
+      "md": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font.family.sans}",
+          "fontWeight": "{font.weight.medium}",
+          "fontSize": "{font.size.400}",
+          "lineHeight": "{font.line-height.500}",
+          "letterSpacing": "0%",
+          "textCase": "none"
+        }
+      }
+    },
+    "code": {
+      "sm": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{font.family.mono}",
+          "fontWeight": "{font.weight.regular}",
+          "fontSize": "{font.size.300}",
+          "lineHeight": "{font.line-height.300}",
+          "letterSpacing": "0%",
+          "textCase": "none"
+        },
+        "$description": "IDs, figures in data-dense tables"
+      }
+    }
+  }
+}

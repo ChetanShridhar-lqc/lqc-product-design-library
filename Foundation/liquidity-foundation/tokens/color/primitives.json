@@ -1,0 +1,369 @@
+{
+  "color": {
+    "green": {
+      "50": {
+        "$type": "color",
+        "$value": "#F2FCF1"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#DFFADE"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#C1F3BF"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#8FE88D"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#56D454"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#2FBA2D"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#219A1F"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#1D791C"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#1B601B"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#184F19"
+      },
+      "950": {
+        "$type": "color",
+        "$value": "#072708",
+        "$description": "Brand: Current Green"
+      }
+    },
+    "gold": {
+      "50": {
+        "$type": "color",
+        "$value": "#FEFCE8"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#FFF9C2"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#FFEF89"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#FFDE43",
+        "$description": "Brand: Surge Yellow"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#FDCA12"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#ECB006",
+        "$description": "Brand: Stability Gold"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#CC8802"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#A35F05",
+        "$description": "Brand: Growth Amber"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#864B0D"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#723D11"
+      },
+      "950": {
+        "$type": "color",
+        "$value": "#431F05",
+        "$description": "Brand: Prospect Brown"
+      }
+    },
+    "error": {
+      "50": {
+        "$type": "color",
+        "$value": "#FEF3F2"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#FEE5E2"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#FECFCA"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#FCAEA5"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#F87E71"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#EF5544"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#D73523"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#B92C1C"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#99281B"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#7F271D"
+      },
+      "950": {
+        "$type": "color",
+        "$value": "#45100A"
+      }
+    },
+    "warning": {
+      "50": {
+        "$type": "color",
+        "$value": "#FFF8EC"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#FFF0D3"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#FFDDA5"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#FFC46D"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#FF9F32"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#FF820A"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#FF6900"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#CC4B02"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#A13A0B"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#82320C"
+      },
+      "950": {
+        "$type": "color",
+        "$value": "#461704"
+      }
+    },
+    "purple": {
+      "50": {
+        "$type": "color",
+        "$value": "#F4F2FF"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#EAE8FF"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#D8D4FF"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#BCB1FF"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#9B85FF"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#744AFF"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#6A30F7"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#5D1EE3"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#4D18BF"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#40169C"
+      },
+      "950": {
+        "$type": "color",
+        "$value": "#260B6A"
+      }
+    },
+    "neutral": {
+      "50": {
+        "$type": "color",
+        "$value": "#F7F7F8"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#EEEEF0"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#DADADD"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#B9B9C0"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#93939D"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#71717B"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#606069"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#4F4E56"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#434349"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#3B3B3F"
+      },
+      "950": {
+        "$type": "color",
+        "$value": "#27272A"
+      },
+      "$description": "Charts and data visualisation only"
+    },
+    "sand": {
+      "50": {
+        "$type": "color",
+        "$value": "#FDFBF8"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#F9F5F1"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#F5EEE8"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#EDE6E0",
+        "$description": "Brand: Legacy Grey"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#DBD3CC"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#BFB6AE"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#9C9289"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#7A7169"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#59514A"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#38322B"
+      },
+      "$description": "Derived: OKLCH hue 63 (Legacy Grey), low chroma"
+    },
+    "sage": {
+      "50": {
+        "$type": "color",
+        "$value": "#F5F7EF"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#EEF2E5"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#E3E9D8"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#CFD8C3"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#9CA691"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#6E7964"
+      },
+      "$description": "Derived: Current Green mixed into Sand"
+    },
+    "brand": {
+      "forward-white": {
+        "$type": "color",
+        "$value": "#FDF5F0",
+        "$description": "Brand: Forward White (Pantone 9285 C)"
+      },
+      "surge-soft": {
+        "$type": "color",
+        "$value": "#FDF3CB",
+        "$description": "Derived: Surge Yellow 30% over Sand 50"
+      }
+    }
+  }
+}

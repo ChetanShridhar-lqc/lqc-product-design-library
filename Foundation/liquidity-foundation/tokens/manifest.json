@@ -1,0 +1,58 @@
+{
+  "name": "Liquidity Foundation",
+  "version": "3.0.0",
+  "prune": false,
+  "collections": [
+    {
+      "name": "Primitives",
+      "hiddenFromPublishing": true,
+      "stripRoot": "color",
+      "modes": { "Value": ["tokens/color/primitives.json"] },
+      "scopes": { "*": [] }
+    },
+    {
+      "name": "Color",
+      "modes": { "Earth": ["tokens/color/semantic.earth.json"] },
+      "codeSyntaxPrefix": "color",
+      "scopes": {
+        "bg": ["FRAME_FILL", "SHAPE_FILL"],
+        "button": ["FRAME_FILL", "SHAPE_FILL"],
+        "text": ["TEXT_FILL"],
+        "border": ["STROKE_COLOR"],
+        "icon": ["SHAPE_FILL", "STROKE_COLOR"],
+        "chart": ["FRAME_FILL", "SHAPE_FILL", "STROKE_COLOR"]
+      }
+    },
+    {
+      "name": "Spacing",
+      "modes": { "Value": ["tokens/dimension/spacing.json"] },
+      "scopes": { "space": ["GAP", "WIDTH_HEIGHT"] }
+    },
+    {
+      "name": "Radius",
+      "modes": { "Value": ["tokens/dimension/radius.json"] },
+      "scopes": { "radius": ["CORNER_RADIUS"] }
+    },
+    {
+      "name": "Typography",
+      "hiddenFromPublishing": false,
+      "stripRoot": "font",
+      "modes": { "Value": ["tokens/typography/primitives.json"] },
+      "scopes": {
+        "font.family": ["FONT_FAMILY"],
+        "font.weight": ["FONT_WEIGHT"],
+        "font.size": ["FONT_SIZE"],
+        "font.line-height": ["LINE_HEIGHT"]
+      }
+    }
+  ],
+  "textStyles": {
+    "files": ["tokens/typography/text-styles.json"],
+    "stripRoot": "text-style",
+    "fontStyles": {
+      "IBM Plex Sans": { "400": "Regular", "500": "Medium" },
+      "IBM Plex Mono": { "400": "Regular", "500": "Medium" },
+      "PP Valve": { "400": "Plain Regular", "500": "Plain Regular" }
+    }
+  }
+}
